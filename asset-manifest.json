@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.196a485e.chunk.css",
-    "main.js": "/static/js/main.57a8897e.chunk.js",
-    "main.js.map": "/static/js/main.57a8897e.chunk.js.map",
+    "main.js": "/static/js/main.5b0477da.chunk.js",
+    "main.js.map": "/static/js/main.5b0477da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11b68fca.js",
     "runtime-main.js.map": "/static/js/runtime-main.11b68fca.js.map",
     "static/js/2.b36605b0.chunk.js": "/static/js/2.b36605b0.chunk.js",
@@ -16,23 +16,30 @@
     "static/media/LA-2.cdfdd7c6.JPG": "/static/media/LA-2.cdfdd7c6.JPG",
     "static/media/LA-3.fbb27544.JPG": "/static/media/LA-3.fbb27544.JPG",
     "static/media/LA-4.3b9a308f.JPG": "/static/media/LA-4.3b9a308f.JPG",
+    "static/media/affnoo-logo.d896c8c5.png": "/static/media/affnoo-logo.d896c8c5.png",
     "static/media/chat-1.9db4f544.JPG": "/static/media/chat-1.9db4f544.JPG",
     "static/media/chat-2.d6430e1a.JPG": "/static/media/chat-2.d6430e1a.JPG",
     "static/media/chat-3.1c11099f.JPG": "/static/media/chat-3.1c11099f.JPG",
     "static/media/chat-4.7b622fc0.JPG": "/static/media/chat-4.7b622fc0.JPG",
+    "static/media/children-centre.a1e32694.JPG": "/static/media/children-centre.a1e32694.JPG",
     "static/media/event-1.ec62c447.JPG": "/static/media/event-1.ec62c447.JPG",
     "static/media/event-2.890a8faf.JPG": "/static/media/event-2.890a8faf.JPG",
     "static/media/event-3.b59ca72e.JPG": "/static/media/event-3.b59ca72e.JPG",
     "static/media/event-4.535a84e8.JPG": "/static/media/event-4.535a84e8.JPG",
+    "static/media/gf-foundation.8e77c3ac.JPG": "/static/media/gf-foundation.8e77c3ac.JPG",
+    "static/media/internation-house-of-tea.698504f5.png": "/static/media/internation-house-of-tea.698504f5.png",
     "static/media/lc-1.471dbfbe.JPG": "/static/media/lc-1.471dbfbe.JPG",
     "static/media/lc-2.24a72a10.JPG": "/static/media/lc-2.24a72a10.JPG",
     "static/media/lc-3.7aaee291.JPG": "/static/media/lc-3.7aaee291.JPG",
-    "static/media/lc-4.69cb3f4a.JPG": "/static/media/lc-4.69cb3f4a.JPG"
+    "static/media/lc-4.69cb3f4a.JPG": "/static/media/lc-4.69cb3f4a.JPG",
+    "static/media/logo_clarks.ee83b406.png": "/static/media/logo_clarks.ee83b406.png",
+    "static/media/others-1.47cd2f32.JPG": "/static/media/others-1.47cd2f32.JPG",
+    "static/media/pdlogo.6cf4aa13.png": "/static/media/pdlogo.6cf4aa13.png"
   },
   "entrypoints": [
     "static/js/runtime-main.11b68fca.js",
     "static/js/2.b36605b0.chunk.js",
     "static/css/main.196a485e.chunk.css",
-    "static/js/main.57a8897e.chunk.js"
+    "static/js/main.5b0477da.chunk.js"
   ]
 }
